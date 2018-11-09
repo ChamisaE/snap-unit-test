@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fe69bba8-2f88-44f7-8840-e2d95a68b8b8" name="snap-unit-test" url="http://bootcamp-coders.cnm.edu/~cedmo/snap-unit-test/">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/cedmo/public_html/snap-unit-test/" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
